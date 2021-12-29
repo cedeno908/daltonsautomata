@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "G1K5msrEf9feyqP2G6nlJlpsYWOGP+ZMzB2fd2gckqvhKCUPk7B6HGSs3P0VEjw9KFy7Vfc4srg+wfNAmLs7lw==",
+  "success": true,
+  "projectFilePath": "/Users/josephkc/Desktop/GitHub/Daltonsautomata/daltonsautomata/daltonsautomata.csproj",
+  "expectedPackageFiles": [
+    "/Users/josephkc/.nuget/packages/raylib-cs/3.7.0.1/raylib-cs.3.7.0.1.nupkg.sha512",
+    "/Users/josephkc/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/josephkc/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.18/microsoft.netcore.app.host.osx-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
